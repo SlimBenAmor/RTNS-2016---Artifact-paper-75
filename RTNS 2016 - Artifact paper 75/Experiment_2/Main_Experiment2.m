@@ -23,7 +23,7 @@ for i=1:size(DMP,2)
 end
 figure('units','normalized','outerposition',[0.25 0.25 0.5 0.75])
 bar(0:10:100,HistBars);
-xlabel('x = schedulability ratio');
-ylabel('y = nbr of tsak set');
-legend('nbr of task set per 10% schedulability ratio interval','Location','north');
+xlabel('X = Schedulability Ratio');
+ylabel('Y = Number of schedulable task-sets');
+legend('Number of task-sets per 10% schedulability ratio interval','Location','north');
 toc
