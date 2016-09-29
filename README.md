@@ -24,7 +24,7 @@ Hardware and experiment duration
 -------------------------------
 In our work, we used a windows machine with an Intel i7 processor, 8Gb RAM and Matlab 2014a to perform the two experiments. In this setting
 it took about 10 minutes to perform the first experiment and about 50 minutes to perform the second one.
-For a simplified version of these experiments (with smaller run time), the number of analysed Task-sets can be decreased. The default is 10 sets in the first Experiment and 100 sets for the second. These numbers can be decreased all the way down to 1 for faster experiment notation, but they can also be increased to an arbitrary number for a longer experiment.  
+For a simplified version of these experiments (with smaller run time), the number of analysed Task-sets can be decreased. The default is 10 sets in the first Experiment and 100 sets for the second. These numbers can be decreased all the way down to 1 for faster experimentation, but they can also be increased to an arbitrary number for a longer experiment.  
 
 Results interpretation
 -------------------------------
